@@ -1,0 +1,18 @@
+{
+  "name": "node-selenium",
+  "version": "0.1.0",
+  "description": "Selenium Implementation of node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AdnanNuruddin",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "casual": "^1.6.2",
+    "chalk": "^3.0.0",
+    "email-templates": "^7.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
