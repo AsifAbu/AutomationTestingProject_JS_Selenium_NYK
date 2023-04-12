@@ -9,7 +9,7 @@
   "author": "AdnanNuruddin",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.1356.0",
     "casual": "^1.6.2",
     "chalk": "^3.0.0",
     "email-templates": "^7.0.2",
